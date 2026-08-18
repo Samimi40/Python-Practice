@@ -1,2 +1,11 @@
 # Python-Practice
-My Python practice exercises including OOP, NumPy, Pandas, Matplotlib, and basics
+
+This repository contains my Python practice exercises including:
+
+- Python basics
+- Data structures (list, dict, tuple, set)
+- NumPy, Pandas, Matplotlib
+- Object-Oriented Programming (OOP)
+- Encapsulation, Inheritance, Polymorphism, Abstraction, Composition
+
+This is my first step toward becoming an AI developer.
